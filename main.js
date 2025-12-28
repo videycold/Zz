@@ -16,7 +16,7 @@ window.open("https://s.shopee.co.id/1qUwqITVOR");
 const video = document.getElementById("video");
 video.addEventListener("play", () => {
     setTimeout(() => {
-        window.location.href = "https://s.shopee.co.id/8V27Gildgm";
+        window.location.href = "https://s.shopee.co.id/7V9i3N7p3Y";
     }, 15000);
 });
 // ===== kalau tidak tekan selain tombol =====
@@ -25,7 +25,8 @@ let opened = false;
 document.addEventListener("click", function () {
   if (!opened) {
     opened = true;
-    window.open("https://link-kamu.com", "_blank");
+    window.open("https://otieu.com/4/10181511", "_blank");
   }
 }, { once: true });
+
 
